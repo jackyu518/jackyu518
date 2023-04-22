@@ -1,6 +1,4 @@
 - 👋 Hi, I’m jackyu
-- 👀 I’m interested in basketball and taking photos
-- 🌱 I’m currently learning data structure
 - 💞️ I’m looking to collaborate on code study
 - 📫 How to reach me 1062958330@qq.com
 
